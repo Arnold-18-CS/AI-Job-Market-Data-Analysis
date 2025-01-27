@@ -1,9 +1,9 @@
 # AI Job Market Analysis Project
 
-## Overview
+## 📃Overview
 This project ananlyzes AI job market trends acrocc different regions, industries, and roles. The analysis focuses on key aspect including salary distributions, remote work opportunities, requireed skills, and growth projections in the AI sector.
 
-## Dataset
+## 📈Dataset
 The dataset contains the following columns:
 
 - Job_Title: Type of AI role
@@ -17,7 +17,7 @@ The dataset contains the following columns:
 - Remote_Friendly: Remote work possibility (Yes/No)
 - Job_Growth_Projection: Growth potential category
 
-## Analysis
+## 🔍Analysis
 The project inscludes four main analyses:
 
 1. Salary Distribution Analysis
@@ -40,7 +40,7 @@ The project inscludes four main analyses:
 - Salary comparisons across roles
 - Growth projections by role and region
 
-## Requirements
+## 📋Requirements
 ```bash
 python==3.8+
 pandas
@@ -50,14 +50,14 @@ seaborn
 scipy
 ```
 
-## Installation
+## ⬇️Installation
 ```bash
 git clone https://github.com/Arnold-18-CS/AI-Job-Market-Data-Analysis
 cd AI-Job-Market-Data-Analysis
 pip install -r requirements.txt
 ```
 
-## Contact
+## 📞Contact
 Arnold Oguda - ogudaarnold@gmail.com 
 Project Link: https://github.com/Arnold-18-CS/AI-Job-Market-Data-Analysis
 
