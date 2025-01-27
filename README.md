@@ -23,7 +23,6 @@ The project inscludes four main analyses:
 1. Salary Distribution Analysis
 - Regional salary comparisons
 - Industry-wise salary distributions
-- Correlation with company size and AI adoption levels
 
 2. Remote Work Analysis
 - Remote work opportunities by location
