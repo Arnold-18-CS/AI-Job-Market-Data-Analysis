@@ -39,6 +39,9 @@ The project inscludes four main analyses:
 - Salary comparisons across roles
 - Growth projections by role and region
 
+## 🤖Model
+
+
 ## 📋Requirements
 ```bash
 python==3.8+
@@ -47,6 +50,7 @@ numpy
 matplotlib
 seaborn
 scipy
+scikit-learn
 ```
 
 ## ⬇️Installation
